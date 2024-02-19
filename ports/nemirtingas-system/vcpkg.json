@@ -1,0 +1,17 @@
+{
+  "name": "nemirtingas-system",
+  "version": "1.0.0",
+  "description": "A portable low level OS functions library.",
+  "homepage": "https://github.com/Nemirtingas/System",
+  "license": "GPL-3.0",
+  "dependencies": [
+    {
+      "name": "vcpkg-cmake",
+      "host": true
+    },
+    {
+      "name": "vcpkg-cmake-config",
+      "host": true
+    }
+  ]
+}

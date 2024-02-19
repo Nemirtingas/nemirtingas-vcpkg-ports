@@ -1,0 +1,17 @@
+{
+  "name": "nemirtingas-minidetour",
+  "version": "1.1.0",
+  "description": "A portable detour library.",
+  "homepage": "https://github.com/Nemirtingas/mini_detour",
+  "license": "GPL-3.0",
+  "dependencies": [
+    {
+      "name": "vcpkg-cmake",
+      "host": true
+    },
+    {
+      "name": "vcpkg-cmake-config",
+      "host": true
+    }
+  ]
+}
