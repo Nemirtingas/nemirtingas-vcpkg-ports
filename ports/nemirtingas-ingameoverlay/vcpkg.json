@@ -1,0 +1,19 @@
+{
+  "name": "nemirtingas-ingameoverlay",
+  "version": "1.0.0",
+  "description": "A portable overlay library.",
+  "homepage": "https://github.com/Nemirtingas/ingame_overlay",
+  "license": "GPL-3.0",
+  "dependencies": [
+    {
+      "name": "vcpkg-cmake",
+      "host": true
+    },
+    {
+      "name": "vcpkg-cmake-config",
+      "host": true
+    },
+    "nemirtingas-minidetour",
+    "nemirtingas-system"
+  ]
+}

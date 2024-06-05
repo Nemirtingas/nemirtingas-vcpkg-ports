@@ -1,0 +1,17 @@
+{
+  "name": "nemirtingas-networklibrary",
+  "version": "1.0.0",
+  "description": "A portable socket library.",
+  "homepage": "https://github.com/Nemirtingas/Socket",
+  "license": "GPL-3.0",
+  "dependencies": [
+    {
+      "name": "vcpkg-cmake",
+      "host": true
+    },
+    {
+      "name": "vcpkg-cmake-config",
+      "host": true
+    }
+  ]
+}
