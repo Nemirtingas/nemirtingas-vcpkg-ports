@@ -1,6 +1,6 @@
 {
   "name": "nemirtingas-ingameoverlay",
-  "version": "1.1.0",
+  "version": "1.1.2-wip",
   "description": "A portable overlay library.",
   "homepage": "https://github.com/Nemirtingas/ingame_overlay",
   "license": "GPL-3.0",
